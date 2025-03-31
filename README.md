@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWSGoat : A Damn Vulnerable AWS Infrastructure
 
 ![1](https://user-images.githubusercontent.com/65826354/179526664-cb123612-7f9a-41fe-bab2-eb6b3b2518d7.png)
@@ -229,3 +230,7 @@ You should have received a copy of the MIT License along with this program. If n
 - [ReconPal: Leveraging NLP for Infosec](https://github.com/pentesteracademy/reconpal) 
 - [VoIPShark: Open Source VoIP Analysis Platform](https://github.com/pentesteracademy/voipshark)
 - [BLEMystique](https://github.com/pentesteracademy/blemystique)
+=======
+# git-app
+Production Application for HR
+>>>>>>> 47c9006c8433ceafef6f82cccdf62777ea1cadb2
